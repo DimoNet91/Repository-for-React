@@ -1,4 +1,5 @@
 export default function OfficerProfile({
+  // eslint-disable-next-line react/prop-types
   officer: { name, age, rank, spec, status },
 }) {
   return (
