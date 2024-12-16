@@ -1,0 +1,13 @@
+.userMenu {
+  display: flex;
+  gap: 4px;
+}
+
+.userName {
+  font-size: 25px;
+  color: blue;
+}
+
+.container {
+  color: aquamarine;
+}
